@@ -1,0 +1,32 @@
+
+<div class="myId">
+  <h1>Edit Faculty Deatails</h1>
+<form [formGroup] ="editFaculty" (ngSubmit) = "updateData()">
+<div class="mb-3">
+    <label  class="form-label">Faculty ID</label>
+    <input type="text" class="form-control" placeholder="Enter ID">
+  </div>
+  <div class="mb-3">
+    <label  class="form-label">Faculty Name</label>
+    <input type="text" class="form-control" placeholder="Enter Name">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Faculty Mobile No.</label>
+    <input type="text" class="form-control" placeholder="Enter Mobile No.">
+  </div>
+    <div class="mb-3">
+      <label class="form-label">Faculty Email</label>
+      <input type="text" class="form-control" placeholder="Enter Email"> 
+    </div>  
+    <div class="mb-3">
+      <label class="form-label">HighestQualification</label>
+      <input type="text" class="form-control" placeholder="Enter HighestQualification">
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Work Location</label>
+      <input type="text" class="form-control" placeholder="Enter workLocation">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+  </div>
