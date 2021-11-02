@@ -1,0 +1,78 @@
+
+{
+  "faculty": [
+    
+	 {
+        "facultyId" : 101,
+        "facultyName" : "Vivek",
+        "facultyMobile" : 9988833837,
+        "facultyEmail" : "vivek@abc.com",
+        "highestQualification" : "Dr",
+        "workLocation" : "Mysore"
+
+    },
+    {
+        "facultyId" : 102,
+        "facultyName" : "Pritivi",
+        "facultyMobile" : 9988833833,
+        "facultyEmail" : "pritivi@abc.com",
+        "highestQualification" : "ME",
+        "workLocation" : "Karnataka"
+
+    },
+    {
+        "facultyId" : 103,
+        "facultyName" : "Rajesh",
+        "facultyMobile" : 9988786578,
+        "facultyEmail" : "rajesh@abc.com",
+        "highestQualification" : "Dr",
+        "workLocation" : "Bhopal"
+
+    },
+    {
+        "facultyId" : 104,
+        "facultyName" : "Preetam",
+        "facultyMobile" : 9988834433,
+        "facultyEmail" : "pritam@abc.com",
+        "highestQualification" : "Dr",
+        "workLocation" : "Banglore"
+
+    },
+    {
+        "facultyId" : 105,
+        "facultyName" : "Kiran",
+        "facultyMobile" : 7988833833,
+        "facultyEmail" : "kiran@abc.com",
+        "highestQualification" : "ME",
+        "workLocation" : "Indore"
+
+    },
+    {
+        "facultyId" : 106,
+        "facultyName" : "Shilpa",
+        "facultyMobile" : 9458883383,
+        "facultyEmail" : "shilpa@abc.com",
+        "highestQualification" : "Dr",
+        "workLocation" : "Chennai"
+
+    },
+    {
+        "facultyId" : 107,
+        "facultyName" : "Aastha",
+        "facultyMobile" : 8988833833,
+        "facultyEmail" : "aastha@abc.com",
+        "highestQualification" : "ME",
+        "workLocation" : "jharkahnd"
+
+    },
+    {
+        "facultyId" : 108,
+        "facultyName" : "Ajay",
+        "facultyMobile" : 8988323833,
+        "facultyEmail" : "ajay@abc.com",
+        "highestQualification" : "Phd",
+        "workLocation" : "Hydrabaad"
+
+    }
+  ]
+ }
