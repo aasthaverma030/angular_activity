@@ -1,0 +1,27 @@
+<div class="container">
+  
+    <h1>Faculty Data</h1>
+    
+    <table class="table table-striped">
+      <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Mobile No.</th>
+            <th>Email</th>
+            <th>HighestQualification</th>
+            
+          </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let faculties of facultyData">
+          <td>{{ faculties.facultyId  }}</td>
+          <td>{{ faculties.facultyName }}</td>
+          <td>{{ faculties.facultyMobile }}</td>
+          <td>{{ faculties.facultyEmail}}</td>
+          <td>{{ faculties.highestQualification}}</td>
+          
+        </tr>
+      </tbody>
+    </table>
+  </div>
